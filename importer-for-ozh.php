@@ -4,7 +4,7 @@
  * Plugin Name: CSV Twitter Importer for OZH Twitter Archiver
  * Plugin URI: http://www.jackreichert.com/2015/07/02/how-to-jsonp-ajax-to-ssl-in-wordpress-an-easier-way/
  * Description: A paradigm for easy AJAX over SSL in WordPress using JSONP.
- * Version: 0.1
+ * Version: 0.1 alpha
  * Author: jackreichert
  * Author URI: http://www.jackreichert.com/
  * License: GPL3
