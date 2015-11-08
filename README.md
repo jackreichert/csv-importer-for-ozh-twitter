@@ -7,5 +7,9 @@ I created this for two purposes:
 
 2. I wanted my tweets to be of custom post type 'tweet'. I also wanted hashtags and mentions as a separate taxonomy.
 
-## This is an Alpha in-the-works release
+### This is an Alpha in-the-works release
+
+This a bit hacky. I did it quickly, and don't plan on releasing it officially in the plugin directory. I pushed it, unpolished, so you can take it and run with it. You'll see some bad practices. Please ignore them.
+
 Please review the code before uploading it to your own site.
+
